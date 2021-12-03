@@ -2,4 +2,4 @@
 
 
 
-this is how java collection operates.
+this is how java garbage collection operates.
